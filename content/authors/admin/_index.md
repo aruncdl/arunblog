@@ -63,4 +63,4 @@ social:
 #- Visitors
 ---
 
-Arun is an Economist, passionate about Open Data and its potential to increase state transparency and accountability. Loves teaching. Previously worked at NITI Aayog.
+Economist and Policy Researcher. Passionate about Open Data and its potential to increase state transparency and accountability. Loves teaching. Previously worked at NITI Aayog.
