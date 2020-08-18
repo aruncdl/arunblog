@@ -1,16 +1,14 @@
 ---
-title: 'How to setup a personal blog?'
-subtitle: 'Free yourself from the clutches of social media'
-summary: Create a simple and beautiful personal blog in less than 10 minutes.
+title: 'Eternal Optimist'
+subtitle: 'My experiments with blogging'
+summary: A look back at my failed attempts at blogging, and my way forward.
 authors:
 - admin
 tags:
 - Blog
-- Custom Domain
-- Netlify
-- Github
+- Personal
 categories:
-- How To Guides
+- Memories
 date: "2020-08-18T00:00:00Z"
 lastmod: "2020-08-18T00:00:00Z"
 featured: false
@@ -34,76 +32,33 @@ image:
 projects: []
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+### A confession
 
-{{% toc %}}
+Let me start with a confession. I find it very difficult to maintain consistency with respect to personal projects. There's a distinct lack of willingness to continue with it after the initial enthusiasm. I've tried my hand at learning to play the paino, violin, tabla, and ukulele at various points in my life and failed at everything. The initial enthusiasm (and the predictable decline in interest) comes with its own costs. Every time I go back home, my mom makes me play _rara venu_ on the then expensive piano they got for me even before I started my lessons. Fortunately, I didn't end up purchasing a violin, tabla, or ukulele. Blogging has been a similar endeavour of mine. My two previous attempts at blogging, [Mysteriously Inconspicuous](http://mysteriouslyinconspicuous.blogspot.com/) and [General Compartment](http://arun-sud.blogspot.com/) ended after a sum total of 48 posts between 2010 and 2013. 
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+### New Beginning
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [**Ask a question** on the forum](https://discourse.gohugo.io)
-- 👥 [Chat with the **community**](https://spectrum.chat/academic)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+This is my _third_ attempt, encouraged by the regularity with which my friend and colleague `cube` has managed to maintain his [blog](https://thedataareclean.com/). Everyday since August 1, 2020 he has manged to publish a post every single day :open_mouth:! I've been trying to setup a personal website ever since I paid _GoDaddy_ for my domain. Attempts to install and maintain a `Jekyll` website on GitHub Pages failed miserably due to errors with dependencies (I still haven't figured out exactly why). Later, I stumbled upon the [Academic](https://sourcethemes.com/academic/) theme, and it's integration with [Netlify](https://app.netlify.com/) and [Github](https://github.com/). It's definitely not the ideal setup, especially because there are non-FOSS elements at play here. If you are interested to host your personal website or blog for free, I'll soon write a `How-To-Guide` on how to set it up for yourselves. 
 
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+### What will I blog about? 
 
-**Key features:**
+I want to blog about anything and everything that comes to my mind. I want to freely write my opinions on matters that are close to my heart. Do I consider this as a therapeutic activity? Yes. I want to be free from the clutches of Twitter, a medium designed to ignite and spread hatred and falsehoods. I'm not shutting myself off from criticism or feedback on my views expressed in these pages. There's a [Disqus](https://disqus.com/) forum below each post where readers (if any :wink:) can share their views on my daily musings. I truly believe that engagement with people with different views is the only way to find common ground. However, that engagement has to based on mutual respect and decency. Rarely do I find people on social media who can do that. 
 
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+### Wait! He said something else in 2010! 
 
-## Themes
+Yes. As I grow and evolve as a person, as I undergo varied experiences, my opinions _will_ change. More than a decade ago, as I was preparing to join [IIT-Madras](https://www.iitm.ac.in/), the national capital was in the midst of protests against [27% reservations in educational institutions](https://www.thehindu.com/todays-paper/Supreme-Court-upholds-law-for-27-OBC-quota/article15201598.ece) announced by the then UPA government. I'm a _Nair_, an upper-caste community in Kerala. I was, as a 17 year old, vehemently opposed to reservations. Fortunately, that view changed a few years later. I now fully understand the reasons why affirmative action is required, however flawed their implementation be. Would I be happier if the system was made fool-proof? Sure. However, as a Professor of mine kept reminding - "no manmade system is immune to human deceit". So I reserve the right to change my opinions over time, in a considered manner. I'll not be human if I stayed the exact same over the course of my existence. 
 
-Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+### Let's start
 
-[Choose a stunning **theme** and **font**](https://sourcethemes.com/academic/themes/) for your site. Themes are fully [customizable](https://sourcethemes.com/academic/docs/customization/#custom-theme).
+I think I've laid out all my disclaimers
 
-## Ecosystem
+1. I want to write freely. I hope Article 19 will protect me. 
+2. My opinions may change over time or when new evidence emerges.
+3. These posts are written in 60 minutes or less with little or no proof-reading. Apologies to Grammar Nazis. 
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+See you everyday with a new post!
 
-## Install
 
-You can choose from one of the following four methods to install:
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
 
-Then [personalize and deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
 
-## Updating
-
-[View the Update Guide](https://sourcethemes.com/academic/docs/update/).
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.

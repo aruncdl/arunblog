@@ -10,8 +10,9 @@ subtitle = "Break free from 280 characters"
 
 [design.background]
   # Background color.
-  color = "#4A5529"
+  color = "\#000000"
 
   # Text color (true=light or false=dark).
   text_color_light = true
+
 +++
