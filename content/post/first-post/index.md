@@ -1,18 +1,18 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'How to setup a personal blog?'
+subtitle: 'Free yourself from the clutches of social media'
+summary: Create a simple and beautiful personal blog in less than 10 minutes.
 authors:
 - admin
-- 吳恩達
 tags:
-- Academic
-- 开源
+- Blog
+- Custom Domain
+- Netlify
+- Github
 categories:
-- Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+- How To Guides
+date: "2020-08-18T00:00:00Z"
+lastmod: "2020-08-18T00:00:00Z"
 featured: false
 draft: false
 
@@ -21,10 +21,10 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  placement: 3
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
