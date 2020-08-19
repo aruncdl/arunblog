@@ -14,7 +14,7 @@ organizations:
   url: "https://www.civicdatalab.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Arun is an Economist, passionate about Open Data and its potential to increase state transparency and accountability. Loves teaching. Previously worked at NITI Aayog. 
+bio: Arun is an Economist, passionate about Open Data and its potential to increase state transparency and accountability. Loves teaching. Previously worked at NITI Aayog. To subscribe to this blog's mailing list, please enter your details [here](http://bit.ly/musingsofaneternaloptimist). Check your spam folder if you are missing updates. Thanks for subscribing!
 
 #interests:
 #- Artificial Intelligence
@@ -63,4 +63,4 @@ social:
 #- Visitors
 ---
 
-Economist and Policy Researcher. Passionate about Open Data and its potential to increase state transparency and accountability. Loves teaching. Previously worked at NITI Aayog.
+Economist and Policy Researcher. Passionate about Open Data and its potential to increase state transparency and accountability. Loves teaching. Previously worked at NITI Aayog. To subscribe to this blog's mailing list, please enter your details [here](http://bit.ly/musingsofaneternaloptimist). Check your spam folder if you are missing updates. Thanks for subscribing!
