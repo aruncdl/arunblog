@@ -56,7 +56,7 @@ If you consume a product, pay for it. Especially if you can afford it. Here's ho
 
 ### I'll only pay for news that fits my world view (?)
 
-It's in human nature to make mistakes and all the news organisations listed above have made their share of mistakes in their long existence. As readers, we also have to learn to see the news and editorial sections differently. Personally, I try to subscribe to publications with different ideological bents. A couple of years ago, I was a regular subscriber of both the New York Times and the Wall Street Journal. I am also a past subscriber of Swarajya, The Economist and Washinton Post. Of course, how you choose to spend your money is entirely your decision. My request? Try to support two different publications - one that fits your world view and one that questions it. 
+It's in human nature to make mistakes and all the news organisations listed above have made their share of mistakes in their long existence. As readers, we also have to learn to see the news and editorial sections differently. Personally, I try to subscribe to publications with different ideological bents. A couple of years ago, I was a regular subscriber of both the New York Times and the Wall Street Journal. I am also a past subscriber of Swarajya, The Economist and Washington Post. Of course, how you choose to spend your money is entirely your decision. My request? Try to support two different publications - one that fits your world view and one that questions it. 
 
 
 
