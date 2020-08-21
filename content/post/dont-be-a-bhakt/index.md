@@ -1,5 +1,5 @@
 ---
-title: 'Don't be a Bhakt'
+title: 'Do not be a Bhakt'
 subtitle: 'Preserve your autonomy'
 summary: The dangers of blind belief.
 authors:
