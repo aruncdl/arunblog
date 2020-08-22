@@ -12,7 +12,7 @@ categories:
 - India
 date: "2020-08-20T00:00:00Z"
 lastmod: "2020-08-20T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
