@@ -48,7 +48,7 @@ I don't know enough about both to comment authoritatively. Friends who have mast
 
 So that's why I'm setting up this personal, public challenge. Starting sometime next month (after I figure out the logistics), I'll start learning python during weekends, and document it here on the blog, publicly. Why would it be interesting it for you the reader? Well, the plan is to document it in such a way that they are useful for anyone to learn python. Here's the tentative plan. 
 
-1. Continue with personal blog 5 times a day (Monday to Friday)
+1. Continue with personal blog 5 times a week (Monday to Friday)
 2. Learn Python on the weekends
 3. One blog during the weekend featuring what I learnt, written in a way that'd help others learn
 
