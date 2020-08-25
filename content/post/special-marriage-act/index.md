@@ -56,7 +56,7 @@ Congratulations! You are now married. Let's now take a detailed look at the step
 4. Fill out the details of the _groom_ in the application form
    1. Select Sub-Registrar Office: You have to choose the sub-registrar office to receive your marriage certificate from. Choose carefully (Check point no. 3 below). 
    2. ID Requirement: Any one of Aadhar, Driving License, Voter ID, Electoral ID, Passport, Ration Card etc. would suffice. **Aadhar is not mandatory**. 
-   3. Residence requirement: Either the bridge or the groom should **reside in any of the villages that comes under the selected Sub-Registrar Office**
+   3. Residence requirement: Either the bride or the groom should **reside in any of the villages that comes under the selected Sub-Registrar Office**
 
 5. Click proceed. You'll get a transaction ID. Keep this safe. 
 
