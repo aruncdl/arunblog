@@ -54,7 +54,7 @@ In Singapore, I continued my habit of reading [newspapers daily](https://arunsud
 
  ![Headlines](headline.png)
 
-In fact, The Straits Times is a _boring_ newspaper. While Malaysian politics is covered in great detail, there's hardly any political news about the ruling [People's Action Party]([https://en.wikipedia.org/wiki/People%27s_Action_Party](https://en.wikipedia.org/wiki/People's_Action_Party)) or the (nominal) opposition by the [Worker's Party.]([https://en.wikipedia.org/wiki/Workers%27_Party_(Singapore)](https://en.wikipedia.org/wiki/Workers'_Party_(Singapore)) Is it because of [government interference](https://en.wikipedia.org/wiki/The_Straits_Times#Government_interference) in the newsroom? (Spoiler alert: Yes). There's no criticism of the government, unless by design. 
+In fact, The Straits Times is a _boring_ newspaper. While Malaysian politics is covered in great detail, there's hardly any political news about the ruling People's Action Party or the (nominal) opposition by the Worker's Party. Is it because of [government interference](https://en.wikipedia.org/wiki/The_Straits_Times#Government_interference) in the newsroom? (Spoiler alert: Yes). There's no criticism of the government, unless by design. 
 
 ### Freedom of Speech
 
