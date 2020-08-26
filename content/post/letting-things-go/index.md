@@ -5,10 +5,10 @@ summary: To throw or not to throw, that's the question
 authors:
 - admin
 tags:
-- Blog
+- Home
 - Life
 categories:
-- Home
+- Musings
 date: "2020-08-22T00:00:00Z"
 lastmod: "2020-08-22T00:00:00Z"
 featured: true

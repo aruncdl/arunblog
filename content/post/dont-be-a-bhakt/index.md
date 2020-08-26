@@ -5,10 +5,10 @@ summary: The dangers of blind belief.
 authors:
 - admin
 tags:
-- Blog
 - Commentary
-categories:
 - India
+categories:
+- Opinion
 date: "2020-08-21T00:00:00Z"
 lastmod: "2020-08-21T00:00:00Z"
 featured: true

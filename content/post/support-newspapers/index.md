@@ -5,11 +5,10 @@ summary: If you consume news, pay for it.
 authors:
 - admin
 tags:
-- Blog
 - Commentary
 - Journalism
 categories:
-- India
+- Opinion
 date: "2020-08-20T00:00:00Z"
 lastmod: "2020-08-20T00:00:00Z"
 featured: true

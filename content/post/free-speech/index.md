@@ -5,11 +5,11 @@ summary: Truth-telling gets harder. My thoughts.
 authors:
 - admin
 tags:
-- Blog
 - Commentary
 - Free Speech
-categories:
 - India
+categories:
+- Opinion
 date: "2020-08-19T00:00:00Z"
 lastmod: "2020-08-19T00:00:00Z"
 featured: true

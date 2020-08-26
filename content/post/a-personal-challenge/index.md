@@ -5,8 +5,9 @@ summary: An effort to learn Python, in the public.
 authors:
 - admin
 tags:
-- Blog
-- Personal
+- Programming
+- Python
+- Education
 categories:
 - Python
 date: "2020-08-24T00:00:00Z"

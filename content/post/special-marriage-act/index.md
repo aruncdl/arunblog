@@ -5,8 +5,9 @@ summary: Give notice. Wait. Get married.
 authors:
 - admin
 tags:
-- Blog
-- Personal
+- Marriage
+- Law
+- Kerala
 categories:
 - How to Guides
 date: "2020-08-25T00:00:00Z"

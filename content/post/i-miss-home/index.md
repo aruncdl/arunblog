@@ -5,8 +5,9 @@ summary: Thoughts on staying far far away from home.
 authors:
 - admin
 tags:
-- Blog
+- Home
 - Family
+- Nostalgia
 categories:
 - Memories
 date: "2020-08-23T00:00:00Z"
