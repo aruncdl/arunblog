@@ -46,7 +46,7 @@ The recipe for bad dosa is _instant dosa powder_ and _non-stick cookware_. **Avo
 1. Make the batter yourself
 2. Invest in a good cast iron dosa tawa
 
-On this, I'll entertain no debate. **Nothing beats a cast iron tawa in the quality of dosa is produces**. Now let's get into the details of each step. 
+On this, I'll entertain no debate. **Nothing beats a cast iron tawa in the quality of dosa it produces**. Now let's get into the details of each step. 
 
 #### How to make the best dosa batter?
 
