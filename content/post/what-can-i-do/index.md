@@ -1,7 +1,7 @@
 ---
 title: 'Help me walk the talk!'
-subtitle: ''
-summary:    
+subtitle: 'Have I done anything at all?'
+summary: There's a plan. Is there a will?  
 authors:
 - admin
 tags:
