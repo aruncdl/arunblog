@@ -8,7 +8,7 @@ tags:
 - Dosa
 - Kitchen
 categories:
-- How to Guides
+- Recipes
 date: "2020-08-27T00:00:00Z"
 lastmod: "2020-08-27T00:00:00Z"
 featured: true
@@ -101,11 +101,12 @@ So now you have the best dosa batter and a cast iron pan. All you have to do is 
 
 1. Put cast iron tawa on medium flame
 2. Apply gingelly oil (or any vegetable oil) and spread it with a sliced onion or a clean tissue
-3. Pour a ladle of batter on the middle of the pan and carefully spread it in round circular motion
-4. Allow the batter to partially cook
-5. Pour a few drops of oil on the dosa (to make it crispier)
-6. Once the dosa turns golden brown and crispy, using a spatula, flip it to allow the other side to cook
-7. Take it off the tawa and enjoy your dosa!
+3. Sprinkle water to cool down the pan (this allows us to spread the batter evenly)
+4. Pour a ladle of batter on the middle of the pan and carefully spread it in round circular motion
+5. Allow the batter to partially cook
+6. Pour a few drops of oil on the dosa (to make it crispier)
+7. Once the dosa turns golden brown and crispy, using a spatula, flip it to allow the other side to cook
+8. Take it off the tawa and enjoy your dosa!
 
 #### Bring your home closer with food
 
