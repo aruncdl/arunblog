@@ -50,12 +50,6 @@ _**(Pardon my inaccurate Tamil spelling)**_
 
 This is a common instance. Not particularly noteworthy. What about possession of _weed_ or other narcotic substances? I can count in one hand the number of people I knew **who didn't use of drugs**. Yet, none of my friends or any IIT student has ever been arrested for possession or sale of _weed_. Why? Policemen in Chennai have "respect" for IIT students, and usually let them go for minor and "major" offences like narcotics cases. 
 
-```html
-<blockquote class="twitter-tweet" data-lang="en" data-dnt="true"><p lang="en" dir="ltr">If the finest law enforcement divisions in our country  spend their time arresting folks who like a little puff now and then,  99.9% every IIT-IIM cohort would not be sitting their bums in whatever  plush place it’s currently being sat.</p>— Swetha  Sridhar (@swethasridhar92) <a  href="https://twitter.com/swethasridhar92/status/1303316856099356672?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"  charset="utf-8"></script> 
-```
-
-### You are next
-
 None of us have a 100% clean record. If you think you have, think harder. We have knowingly and unknowingly committed violations of law for most part of our lives. If that's the case, why haven't we been investigated and arrested? The cost of tracking down every single petty crime, especially victimless crimes is way too high. Law enforcement has to prioritise which cases to put their limited resources on. When the nature of crime changes, from petty victimless ones to major crimes, all depends on the political priority of either a local politician, ruling party, or the police themselves. Have a grudge against the accused? Go hard at him. Something to get a promotion? Sure. Want to divert the attention of the public? Dig up some dirt. 
 
 How can we be 100% sure that we don't fall into scheming calculations of outside actors? We can't be. You could be next. 
