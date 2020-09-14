@@ -48,7 +48,7 @@ NITI Bhawan has 6 floors. On an average, the room arrangement is something like 
 
 Here's the formula to calculate the cleanliness of bathrooms.
 
-$cleanliness \; \propto \; avg \; level \; of \; bureaucracy$
+$cleanliness \propto (avg-level-of-bureaucracy)$
 
 The more powerful the occupants of a particular floor, the cleaner the bathrooms are. It's also cleaner if they are closer to the _powerful rooms_. I remember going down to the First Floor several times to use the extremely clean ones there. Tip: You can't use _every_ bathroom in that floor. **There's one specifically reserved for Members**. 
 
