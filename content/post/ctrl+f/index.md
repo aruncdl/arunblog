@@ -1,7 +1,7 @@
 ---
-title: 'Tales from the travelling husband'
+title: 'Ctrl + F'
 subtitle: 'Results Edition'
-summary: How to be the non-bureaucrat husband of an IAS wife. 
+summary: Tales from the Travelling Husband - 1. 
 authors:
 - admin
 tags:
