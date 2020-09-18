@@ -62,7 +62,7 @@ Perhaps the most bizarre experience I had at NITI Aayog has to be the release of
 
 Now, I cannot comment on the methodology or the numbers - that's a highly technical debate. What I can say is this. NITI Aayog announced a press conference at 4 p.m. on November 12, 2018 to release the GDP back-series. The Press Conference was to follow a round-table discussion between NITI Aayog, CSO, and several experts. However, the press meet [was cancelled at the last minute.](https://indianexpress.com/article/business/economy/roundtable-talks-held-follow-up-discussion-shortly-niti-aayog-5443290/) The Indian Express report is quite accurate - the experts had a few questions and clarifications to seek from the CSO. When the answers were not forthcoming, they had to cancel the meeting. 
 
-What happened inside was mind-blowing. With just 15 minutes to go for the press conference, CSO staffers opened up a spreadsheet on their laptop and started working on the back-series data! :open_mouth: IS THIS HOW THE NATION'S GDP NUMBERS ARE BEING CALCULATED? :dizzy_face: Of course, last minute work **did not** get submitted to the public on that day, fortunately. Finally, it was released on November 28, 2020. 
+What happened inside was mind-blowing. With just 15 minutes to go for the press conference, CSO staffers opened up a spreadsheet on their laptop and started working on the back-series data! :open_mouth: IS THIS HOW THE NATION'S GDP NUMBERS ARE BEING CALCULATED? :dizzy_face: Of course, last minute work **did not** get submitted to the public on that day, fortunately. Finally, it was released on November 28, 2018. 
 
 ### Final Thoughts
 
