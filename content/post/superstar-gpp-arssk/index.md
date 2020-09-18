@@ -10,8 +10,8 @@ tags:
 - Influence
 categories:
 - Opinion
-date: "2020-09-19T00:00:00Z"
-lastmod: "2020-09-19T00:00:00Z"
+date: "2020-09-18T00:00:00Z"
+lastmod: "2020-09-18T00:00:00Z"
 featured: true
 draft: false
 
