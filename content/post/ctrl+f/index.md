@@ -10,9 +10,9 @@ tags:
 - Wife
 - IAS
 categories:
-- Memories
-date: "2020-09-16T00:00:00Z"
-lastmod: "2020-09-16T00:00:00Z"
+- Travelling Husband
+date: "2020-09-17T00:00:00Z"
+lastmod: "2020-09-17T00:00:00Z"
 featured: true
 draft: false
 
