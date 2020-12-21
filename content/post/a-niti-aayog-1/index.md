@@ -9,8 +9,6 @@ tags:
 - NITI Aayog
 categories:
 - NITI Aayog
-- Opinion
-- Memories
 date: "2020-09-02T00:00:00Z"
 lastmod: "2020-09-02T00:00:00Z"
 featured: true
