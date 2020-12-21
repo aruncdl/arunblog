@@ -54,11 +54,9 @@ Apple has decided to put Wistron on [probation](https://www.theverge.com/2020/12
 
  ### The Unseen Violence
 
-```html
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">At a personal  level, I don't like to see violence or destruction. Destruction  of property is *not* the only violence. When multi-billion dollar  corporations don't pay their workers fairly and on time,  that's violence too. <a  href="https://t.co/MPwQaCaf4U">https://t.co/MPwQaCaf4U</a></p>— Arun Sudarsan (@mrarunsudarsan) <a  href="https://twitter.com/mrarunsudarsan/status/1340266783115120641?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"  charset="utf-8"></script> 
-```
+![Tweet](tweet.png)
 
-So I tweeted this, and someone replied that it's not violence, it's a `violation`. Sure, they were violating rules and regulations meant to protect workers. However, what's the effect of the violation? Imagine going without salary for 3-4 months after putting in regular and overtime during a pandemic? Is that not violence? With thousands of people dependent on this income to put food on their plates, how can we not empathise with their condition? Again, I'd have happily taken a peaceful solution to this than what it ended up being. Was that an option? 
+So I [tweeted this](https://twitter.com/mrarunsudarsan/status/1340266783115120641?s=20), and someone replied that it's not violence, it's a `violation`. Sure, they were violating rules and regulations meant to protect workers. However, what's the effect of the violation? Imagine going without salary for 3-4 months after putting in regular and overtime during a pandemic? Is that not violence? With thousands of people dependent on this income to put food on their plates, how can we not empathise with their condition? Again, I'd have happily taken a peaceful solution to this than what it ended up being. Was that an option? 
 
 ### Final thoughts
 
